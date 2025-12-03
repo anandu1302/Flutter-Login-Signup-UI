@@ -1,16 +1,13 @@
 # Flutter Login UI
 
-A new Flutter project.
+A clean and modern Flutter authentication UI featuring both **Login** and **Sign Up** screens.  
+Designed with a simple layout, elegant colors, and user-friendly components.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## ScreenShots
 
-A few resources to get you started if this is your first Flutter project:
+|                 Sign Up Screen               |                  Login Screen                |
+|:--------------------------------------------:|:--------------------------------------------:|
+|<img src="UI/2.png" width="300" />            | <img src="UI/1.png" width="300"/>            |
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
